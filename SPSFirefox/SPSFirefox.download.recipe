@@ -7,11 +7,11 @@
 		<key>Description</key>
 		<string>Downloads the latest version of MultiFirefox.</string>
 		<key>Identifier</key>
-		<string>com.github.ahousseini-recipes.download.MultiFirefox</string>
+		<string>com.github.anton-prymak.autopkg-repo.download.SPSFirefox</string>
 		<key>Input</key>
 		<dict>
 			<key>NAME</key>
-			<string>MultiFirefox</string>
+			<string>SPSFirefox</string>
 		</dict>
 		<key>MinimumVersion</key>
 		<string>1.0.0</string>
