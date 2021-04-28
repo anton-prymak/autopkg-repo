@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created with Recipe Robot v2.2.0 (https://github.com/homebysix/recipe-robot)</string>
+	<string>This recipe downloads the latest version of Excel in PKG format.</string>
 	<key>Description</key>
 	<string>Downloads the latest version of Excel.</string>
 	<key>Identifier</key>
