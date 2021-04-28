@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>This recipe downloads the latest version of OneNote in PKG format.</string>
+	<string>This recipe downloads the latest version of OneDrive in PKG format.</string>
 	<key>Description</key>
-	<string>Downloads the latest version of OneNote.</string>
+	<string>Downloads the latest version of OneDrive.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.OneNote</string>
+	<string>SPSC.download.OneDrive</string>
 	<key>Input</key>
 	<dict>
-		<key>APP_FILENAME</key>
-		<string>Microsoft OneNote</string>
 		<key>NAME</key>
-		<string>OneNote</string>
+		<string>OneDrive</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
@@ -25,7 +23,7 @@
 				<key>filename</key>
 				<string>%NAME%.pkg</string>
 				<key>url</key>
-				<string>https://go.microsoft.com/fwlink/?linkid=820886</string>
+				<string>https://go.microsoft.com/fwlink/?linkid=823060</string>
 			</dict>
 			<key>Processor</key>
 			<string>URLDownloader</string>
