@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Microsoft Edge.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.MicrosoftEdge</string>
+	<string>com.github.spsc.download.msedge</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

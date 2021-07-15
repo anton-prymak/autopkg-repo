@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>Comment</key>
-	<string>Created with Recipe Robot v2.2.0 (https://github.com/homebysix/recipe-robot)</string>
+	<string>Microsoft AutoUpdate makes sure your copy of Office will always be up-to-date with the latest security fixes and improvements. If you are a Microsoft 365 subscriber, you'll also receive the newest features and tools.</string>
 	<key>Description</key>
 	<string>Downloads the latest version of Microsoft AutoUpdate.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.MicrosoftAutoUpdate</string>
+	<string>com.github.spsc.download.msautoupdate</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
