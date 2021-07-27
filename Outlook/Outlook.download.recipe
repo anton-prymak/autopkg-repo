@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Outlook.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.Outlook</string>
+	<string>com.github.spsc.download.outlook</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>

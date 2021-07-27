@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Atom and makes a package.</string>
 	<key>Identifier</key>
-	<string>SPSC.pkg.Atom</string>
+	<string>com.github.spsc.pkg.atom</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>0.3.1</string>
 	<key>ParentRecipe</key>
-	<string>SPSC.download.Atom</string>
+	<string>com.github.spsc.download.atom</string>
 	<key>Process</key>
 	<array>
 		<dict>

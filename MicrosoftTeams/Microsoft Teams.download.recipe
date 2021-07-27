@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Microsoft Teams.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.MicrosoftTeams</string>
+	<string>com.github.spsc.download.msteams</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

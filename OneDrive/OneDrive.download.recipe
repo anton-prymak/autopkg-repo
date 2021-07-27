@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of OneDrive.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.OneDrive</string>
+	<string>com.github.spsc.download.onedrive</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
