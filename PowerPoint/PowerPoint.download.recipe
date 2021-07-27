@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of PowerPoint.</string>
 	<key>Identifier</key>
-	<string>SPSC.download.PowerPoint</string>
+	<string>com.github.spsc.download.powerpoint</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
